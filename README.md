@@ -1,4 +1,16 @@
-## Olá, eu sou Thayrony Von Held e Bem Vindo ao meu repositório! 🚀 
+## Hi! My name is Thayrony Von Held — Welcome to my repository! 🚀
+
+**`FullStack Development`**
+
+I'm a Full Stack development student with a solid background in Electronics, currently transitioning into software development. Here you'll find personal projects, study repositories, and my journey as a developer — from the basics to real, practical solutions.
+
+Let's build something awesome! 🚀
+
+ <a href="https:www.linkedin.com/in/thayrony-von-held-b14ba7256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://youtube.com/@devthayronyvonheld?si=GwXHf3RSA6n9Ajx2)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayronyvonheld&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayronyvonheld&layout=compact&theme=radical)
+
+
