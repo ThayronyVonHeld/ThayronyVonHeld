@@ -2,7 +2,7 @@
 
 **`FullStack Development`**
 
-I'm a Full Stack development student with a solid background in Electronics, currently transitioning into software development. Here you'll find personal projects, study repositories, and my journey as a developer — from the basics to real, practical solutions.
+I'm a Full Stack development student with a solid background in Electronics, currently transitioning into software development. Here you'll find personal projects, study repositories, and my journey as a developer, from the basics to real, practical solutions.
 
 Let's build something awesome! 🚀
 
