@@ -1,10 +1,22 @@
 ## Hi! My name is Thayrony Von Held — Welcome to my repository! 🚀
 
-**`Fulll-Stack Developer (Java & Spring Boot) | REST APIs | SQL`**
+<div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thayrony-von-held-b14ba7256/)
-[![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCo7dUnUiuNw16gVYDuL7RNg)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayronyvonheld@gmail.com)
+**`Full-Stack Developer (Java & Spring Boot) | REST APIs | SQL`**
+
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thayrony-von-held-b14ba7256/">
+ <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
+</a>
+<a href="https://github.com/ThayronyVonHeld/Web-Fundamentals/blob/main/README-PT.md">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=FF0000&color=FF0000" />
+  </a>
+  <a href="mailto:thayronyvonheld@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 Full Stack Developer focused on building practical applications and developing production-ready skills. I believe in learning by building applying concepts through real projects instead of just theory.
 
