@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/thayrony-von-held-b14ba7256/">
  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" />
 </a>
-<a href="https://github.com/ThayronyVonHeld/Web-Fundamentals/blob/main/README-PT.md">
+<a href="https://www.youtube.com/channel/UCo7dUnUiuNw16gVYDuL7RNg">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=FF0000&color=FF0000" />
   </a>
   <a href="mailto:thayronyvonheld@gmail.com">
