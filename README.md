@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-informational?style=flat&logo=youtube&logoColor=FF0000&color=FF0000" />
   </a>
   <a href="mailto:thayronyvonheld@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-Contact-Informational?style=flat&logo=gmail&logoColor=red&color=red">
   </a>
 </p>
 
