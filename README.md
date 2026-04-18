@@ -18,7 +18,7 @@ Let's build something awesome! 🚀
 
 ### 🤖 Main Languages and Technologies
 
-<p align="center">
+<p align="left">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
