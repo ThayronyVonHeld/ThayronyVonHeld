@@ -25,7 +25,7 @@ This repository represents my growth as a developer, from core fundamentals to r
 
  ---
  
-![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayronyvonHeld&show_icons=true&theme=radical)
+![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayronyvonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayronyvonheld&layout=compact&theme=radical)
 
 ---
