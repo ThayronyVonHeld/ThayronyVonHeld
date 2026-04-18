@@ -24,7 +24,8 @@ Full Stack Developer focused on building practical applications and developing p
 This repository represents my growth as a developer, from core fundamentals to real-world solutions.
 
  ---
-
+ 
+![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayronVonHeld&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayronyvonheld&layout=compact&theme=radical)
 
 ---
