@@ -1,6 +1,6 @@
 <div align="center">
  <h1>
-<strong> Hi! My name is Thayrony Von Held — Welcome to my repository! 🚀</strong> 
+<strong> Hi! My name is Thayrony Von Held — Welcome to my repository!🚀</strong> 
  </h1>
  
 **`Full-Stack Developer (Java & Spring Boot) | REST APIs | SQL`**
