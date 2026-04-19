@@ -19,9 +19,9 @@
   </a>
 </p>
 
-Full Stack Developer focused on building practical applications and developing production-ready skills. I believe in learning by building applying concepts through real projects instead of just theory.
+*Full Stack Developer focused on designing and building scalable systems, APIs, and backend-driven applications. I work primarily with Java and Spring Boot, applying software engineering principles through production-style projects and real-world simulations. I maintain a continuous learning mindset, refining my skills in backend architecture, REST API design, and full stack system development.*
 
-This repository represents my growth as a developer, from core fundamentals to real-world solutions.
+*This repository reflects my progression as a developer, from core fundamentals to applied engineering practices in real-world scenarios.*
 
  ---
  
