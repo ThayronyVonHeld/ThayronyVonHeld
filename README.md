@@ -51,7 +51,7 @@ This repository represents my growth as a developer, from core fundamentals to r
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/ThayronyVonHeld/Clinica-Clara-Fisioterapeuta">
+<a href="https://github.com/ThayronyVonHeld/physiotherapy-clinic-system">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thayronyvonheld&repo=physiotherapy-clinic-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
