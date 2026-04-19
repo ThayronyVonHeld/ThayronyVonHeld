@@ -3,7 +3,7 @@
 <strong> Hi! My name is Thayrony Von Held - Welcome to my repository!</strong> 
  </h1>
  
-**`Full-Stack Developer (Java & Spring Boot) | REST APIs | SQL`**
+**`Back-End Developer (Java & Spring Boot) | REST APIs | SQL`**
 
 </div>
 
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-*Full Stack Developer focused on designing and building scalable systems, APIs, and backend-driven applications. I work primarily with Java and Spring Boot, applying software engineering principles through production-style projects and real-world simulations. I maintain a continuous learning mindset, refining my skills in backend architecture, REST API design, and full stack system development.*
+*Back-End Developer focused on designing and building scalable systems, APIs, and backend-driven applications. I work primarily with Java and Spring Boot, applying software engineering principles through production-style projects and real-world simulations. I maintain a continuous learning mindset, refining my skills in backend architecture, REST API design, and full stack system development.*
 
 *This repository reflects my progression as a developer, from core fundamentals to applied engineering practices in real-world scenarios.*
 
