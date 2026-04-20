@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="right">
+  <img src="https://github.com/ThayronyVonHeld/Web-Fundamentals/blob/main/assets/Pixel_Art_Brick_Wall_Construction_Animation.gif" width="25%"/>
+</p>
+
 *Back-End Developer focused on designing and building scalable systems, APIs, and backend-driven applications. I work primarily with Java and Spring Boot, applying software engineering principles through production-style projects and real-world simulations. I maintain a continuous learning mindset, refining my skills in backend architecture, REST API design, and full stack system development.*
 
 *This repository reflects my progression as a developer, from core fundamentals to applied engineering practices in real-world scenarios.*
