@@ -24,7 +24,8 @@
 *This repository reflects my progression as a developer, from core fundamentals to applied engineering practices in real-world scenarios.*
 
  ---
- 
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayronyVonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayronyVonHeld&layout=compact&theme=radical)
 
