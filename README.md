@@ -25,8 +25,8 @@
 
  ---
  
-![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=thayronyvonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayronyvonheld&layout=compact&theme=radical)
+![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayronyVonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayronyVonHeld&layout=compact&theme=radical)
 
 ---
 
