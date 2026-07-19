@@ -45,9 +45,9 @@
 
 ## 🚀 Featured Projects
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=utility-tools&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/utility-tools/)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=java-backend-journey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/java-backend-journey)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=physiotherapy-clinic-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/physiotherapy-clinic-system)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=utility-tools&theme=radical)](https://github.com/ThayronyVonHeld/utility-tools/)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=java-backend-journey&theme=radical)](https://github.com/ThayronyVonHeld/java-backend-journey)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=physiotherapy-clinic-system&theme=radical)](https://github.com/ThayronyVonHeld/physiotherapy-clinic-system)
 
 ---
 
