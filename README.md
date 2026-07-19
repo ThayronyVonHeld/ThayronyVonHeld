@@ -25,8 +25,8 @@
 
  ---
 
-[![Thayrony's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThayronyVonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayronyVonHeld&layout=compact&theme=radical)
+[![Thayrony's GitHub stats](https://github-stats-extended.vercel.app/api?username=ThayronyVonHeld&show_icons=true&theme=radical&count_private=true&hide=contribs&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ThayronyVonHeld&layout=compact&theme=radical)
 
 ---
 
@@ -45,18 +45,10 @@
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/ThayronyVonHeld/physiotherapy-clinic-system">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thayronyvonheld&repo=physiotherapy-clinic-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=utility-tools&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/utility-tools/)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=java-backend-journey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/java-backend-journey)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=thayronyvonheld&repo=physiotherapy-clinic-system&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/ThayronyVonHeld/physiotherapy-clinic-system)
 
-<a href="https://github.com/ThayronyVonHeld/utility-tools">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thayronyvonheld&repo=utility-tools&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/ThayronyVonHeld/java-backend-journey">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=thayronyvonheld&repo=java-backend-journey&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-  
 ---
 
 <picture align="center">
